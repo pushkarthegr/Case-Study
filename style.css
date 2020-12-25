@@ -1,0 +1,76 @@
+body{
+    background-color: gray;
+}
+h1{
+    font-size: 40px !important;
+    font-family: 'Indie Flower', cursive;
+    color:white;
+    width:100%;
+    position:fixed;
+    top:0px;
+    margin:0px;
+    border-radius: 0px !important;
+    z-index: 11;
+    background-color: black;
+}
+#right{
+    width:50px;
+    height:100%;
+    position: fixed;
+    right:0px;
+    z-index: 10;
+    background-color: black;
+}
+#left{
+    width:50px;
+    height:100%;
+    position: fixed;
+    left:0px;
+    z-index: 10;
+    background-color: black;
+}
+.designer{
+    color:white !important;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    position:fixed;
+    bottom:0px;
+    width:100%;
+    border-radius: 0px !important;
+    z-index: 11;
+    background-color: black;
+}
+.designer,h1:hover{
+    color:white !important;
+}
+p{
+    color:white;
+    font-size:25px;
+    margin-top: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+h3{
+    color:rgb(255, 7, 7);
+    font-weight: bold;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+#mycarosel{
+    background-color: rgb(44, 40, 40);
+    border-radius: 10px;
+}
+#mycarosel img{
+    margin-top: 10px;
+}
+#final{
+    background-color: rgb(56, 44, 44);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    float:none;
+    color:white;
+    font-family: 'Indie Flower', cursive;
+}
+h4{
+    color:yellow;
+}
